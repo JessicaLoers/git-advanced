@@ -1,6 +1,5 @@
-console.log(chaosMonkeyCreatingSomeMoreChaosHere())
-
-
-function chaosMonkeyCreatingSomeMoreChaosHere() {
-  return "you're welcome 🤗"
+function greeting(name) {
+  console.log(`Hello, ${name}`);
 }
+
+greeting('Andrea');
