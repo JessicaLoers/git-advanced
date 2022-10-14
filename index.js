@@ -1,1 +1,6 @@
-console.log('Hello, Andrea!');
+console.log(chaosMonkeyCreatingSomeMoreChaosHere())
+
+
+function chaosMonkeyCreatingSomeMoreChaosHere() {
+  return "you're welcome 🤗"
+}
